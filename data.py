@@ -1,0 +1,36 @@
+question_data = [
+    {"category": "Science: Computers",
+     "type": "boolean",
+     "difficulty": "medium",
+     "question": "The common software-programming acronym &quot;I18N&quot; "
+                 "comes from the term &quot;Interlocalization&quot;.",
+     "correct_answer": "False",
+     "incorrect_answers": ["True"]
+     },
+    {"category": "Science: Computers", "type": "boolean", "difficulty": "medium",
+     "question": "FLAC stands for &quot;Free Lossless Audio Condenser&quot;&#039;", "correct_answer": "False",
+     "incorrect_answers": ["True"]}, {"category": "Science: Computers", "type": "boolean", "difficulty": "easy",
+                                      "question": "The programming language &quot;Python&quot; "
+                                                  "is based off a modified version of &quot;JavaScript&quot;.",
+                                      "correct_answer": "False", "incorrect_answers": ["True"]},
+    {"category": "Science: Computers", "type": "boolean", "difficulty": "easy",
+     "question": "Pointers were not used in the original C programming language; they were added later on in C++.",
+     "correct_answer": "False", "incorrect_answers": ["True"]},
+    {"category": "Science: Computers", "type": "boolean", "difficulty": "medium",
+     "question": "To bypass US Munitions Export Laws, "
+                 "the creator of the PGP published all the source code in book form. ",
+     "correct_answer": "True", "incorrect_answers": ["False"]},
+    {"category": "Science: Computers", "type": "boolean", "difficulty": "easy",
+     "question": "Ada Lovelace is often considered the first computer programmer.", "correct_answer": "True",
+     "incorrect_answers": ["False"]}, {"category": "Science: Computers", "type": "boolean", "difficulty": "medium",
+                                       "question": "MacOS is based on Linux.", "correct_answer": "False",
+                                       "incorrect_answers": ["True"]},
+    {"category": "Science: Computers", "type": "boolean", "difficulty": "hard",
+     "question": "The IBM PC used an Intel 8008 microprocessor clocked at 4.77 MHz and 8 kilobytes of memory.",
+     "correct_answer": "False", "incorrect_answers": ["True"]},
+    {"category": "Science: Computers", "type": "boolean", "difficulty": "medium",
+     "question": "Early RAM was directly seated onto the motherboard and could not be easily removed.",
+     "correct_answer": "True", "incorrect_answers": ["False"]},
+    {"category": "Science: Computers", "type": "boolean", "difficulty": "hard",
+     "question": "The T-Mobile Sidekick smartphone is a re-branded version of the Danger Hiptop.",
+     "correct_answer": "True", "incorrect_answers": ["False"]}]
